@@ -18,6 +18,7 @@ adb shell input keyevent BUTTON_R1
 adb shell input text 123
 adb exec-out screencap -p > screen.png
 adb logcat | findstr AUDIO
+adb shell screenrecord /sdcard/example.mp4
 ```
 
 ## DataWedge Configuration
