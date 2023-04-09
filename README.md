@@ -20,9 +20,9 @@ adb exec-out screencap -p > screen.png
 adb logcat | findstr AUDIO
 ```
 
-## DataWedge COnfiguration
+## DataWedge Configuration
 
-<img width="150" src="docs/screen.png">
 <img width="150" src="docs/screen1.png">
+<img width="150" src="docs/screen.png">
 <img width="150" src="docs/screen2.png">
 <img width="150" src="docs/screen3.png">
